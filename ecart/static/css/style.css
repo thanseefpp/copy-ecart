@@ -496,15 +496,10 @@ textarea.input {
 /*----------------------------*\
 	Login and out
 \*----------------------------*/
-
-#nvlg{
-  height: 40px;
-  width: 100px;
-  background: #D10024;
-  color: #FFF;
-  font-weight: 700;
-  border: none;
-  border-radius: 40px 40px 40px 40px;
+#buttonlog {
+    background-color: white;
+    color: black;
+    border: 2px solid #d10e00; /* Green */
 }
 
 /*----------------------------*\
