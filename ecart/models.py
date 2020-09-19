@@ -10,4 +10,3 @@ class product(models.Model):
     image = models.CharField(max_length = 2000)
 
 
-
