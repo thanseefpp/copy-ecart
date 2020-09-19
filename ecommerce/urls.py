@@ -18,6 +18,6 @@ from django.urls import path,include
 from ecart import views
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    
     path('',include('ecart.urls')),
 ]
